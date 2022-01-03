@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background: red;
+	font-size: 40px;
+}
+header h1{
+	margin-left: 130px;
+}
+#umb{
+	width: 100px;
+	height: 100px;
+}
+header form{
+	margin: 2px;
+	margin-left: 1175px;
+}
+nav{
+	background: ;
+	width: 20%;
+	float: left;
+}
+ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    top: 2em;
+    left: 1em;
+    width: 15em 
+}
+ul.navbar li {
+	background: gold;
+	border: 1px solid gold;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+a{
+	text-decoration: none;
+}
+section{
+	width: 60%;
+	float: left;
+}
+section article{
+}
+.divsection{
+	font-size: 35px;
+}
+article{
+	width: 30%;
+	margin: 1%;
+	float: left;
+}
+section img{
+	width: 273px;
+	height: 175px;
+	border-bottom: 3px solid black;
+	padding: 2p;
+}
+.top{
+	color: limegreen;
+	font-weight: bold;
+}
+.info{
+	font-family: arial;
+}
+.cost{
+	color: red;
+	font-weight: bold;
+	margin-left: 205px;
+}
+aside{
+	background: ;
+	width: 20%;
+	float: right;
+	margin-bottom: 5px;
+}
+.asideimg{
+	width: 175px;
+	height: 100px;
+}
+#asidefont{
+	font-size: 55px;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+footer{
+	background: black;
+	clear: left;
+}
+h3{
+	text-align: center;
+
+}
